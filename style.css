@@ -32,7 +32,8 @@ html {
 
 body {
 	line-height: 1;
-	background: url(images/background.png) repeat;
+	/*background: url(images/background.png) repeat;*/
+	background-color: rgba(1,1,1,0.6);
 	height: 100%;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
@@ -279,7 +280,9 @@ a:link {
 	display: block;
 	width: 34px;
 	height: 34px;
-	background: url(images/twitter-icon.png) no-repeat;
+	/*background: url(images/twitter-icon.png) no-repeat;*/
+	background-color: rgba(1,1,1,0.6);
+
 	cursor: pointer;
 	position: absolute;
 	right: 41px;
@@ -290,7 +293,9 @@ a:link {
 	display: block;
 	width: 34px;
 	height: 34px;
-	background: url(images/facebook-icon.png) no-repeat;
+	/*background: url(images/facebook-icon.png) no-repeat;*/
+	background-color: rgba(1,1,1,0.6);
+
 	cursor: pointer;
 	position: absolute;
 	right: 0px;
