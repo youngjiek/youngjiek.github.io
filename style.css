@@ -280,8 +280,8 @@ a:link {
 	display: block;
 	width: 34px;
 	height: 34px;
-	/*background: url(images/twitter-icon.png) no-repeat;*/
-	background-color: rgba(1,1,1,0.6);
+	background: url(images/twitter-icon.png) no-repeat;
+	/*background-color: rgba(1,1,1,0.6);*/
 
 	cursor: pointer;
 	position: absolute;
@@ -293,8 +293,8 @@ a:link {
 	display: block;
 	width: 34px;
 	height: 34px;
-	/*background: url(images/facebook-icon.png) no-repeat;*/
-	background-color: rgba(1,1,1,0.6);
+	background: url(images/facebook-icon.png) no-repeat;
+	/*background-color: rgba(1,1,1,0.6);*/
 
 	cursor: pointer;
 	position: absolute;
