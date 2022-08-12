@@ -54,7 +54,7 @@
     //走接口获取100条记录
     $(function () {
         var data = {"name":$(location).attr("href")};
-        var url = base_url + "/posts/tapi";
+        var url = base_url + "/api/home/index.php";
         requestPost(url,{data},function (res,dataormsg) {
             if(res){
                 let main = dataormsg.main;

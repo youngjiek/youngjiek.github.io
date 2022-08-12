@@ -1,7 +1,7 @@
 //配置
 
 //服务端地址
-var base_url = "https://8817-101-229-155-57.ap.ngrok.io";
+var base_url = "http://yjk.ueuo.com/";
 
 
 
