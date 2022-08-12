@@ -1,7 +1,7 @@
 //配置
 
 //服务端地址
-var base_url = "http://yjk.ueuo.com/";
+var base_url = "http://yjk.ueuo.com";
 
 
 
